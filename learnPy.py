@@ -5,7 +5,7 @@ import os
 import datetime
 import scipy.stats as stats
 
-print('hello python')
+print('hello python git test')
 def test():
     data={'a':[35,44,111,72],'b':['ST天山',3,5,0],'c':[400,66,8,0]}
     df=pd.DataFrame(data)
